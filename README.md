@@ -1,5 +1,5 @@
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fchatgptguru%2Fchatgptphone_langchain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpumpkin46%2Fchatgptphone_langchain)
 
 # LangChain running on Vercel
 
@@ -38,7 +38,7 @@ To run this project, you will need to add the following environment variables to
 
 ## One-Click Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fchatgptguru%2Fchatgptphone_langchain)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpumpkin46%2Fchatgptphone_langchain)
 
 
 
